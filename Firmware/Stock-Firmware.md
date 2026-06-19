@@ -13,4 +13,4 @@
   - Pull It To Your PC With [Platform Tools](https://developer.android.com/tools/releases/platform-tools) Installed
   - Also Install [Python](https://www.python.org/downloads/)
   - After All Of That, Go Get My Flasher Script
-    - [Flasher.py](https://github.com/Xen1123/Android-Help/Flasher/Flasher.py)
+    - [Flasher.py](https://github.com/Xen1123/Android-Help/blob/main/Flasher/Flasher.py)
